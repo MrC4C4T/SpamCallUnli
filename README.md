@@ -1,2 +1,8 @@
 # SpamCallUnli
-SpamCall Cuk Unlimited
+apt upgrade && apt update
+pkg update
+pkg install python 
+git clone https://github.com/AbilSeno/SpamCallUnli
+cd SpamCallUnli
+pip install requests
+python run.py
